@@ -10,9 +10,9 @@ AI4I 2020 · 10,000 records · 6 failure types
 ## Results
 | Model            | F1-Score | Recall |
 |------------------|----------|--------|
-| Logistic Reg.    |  0.72    |  0.68  |
-| Random Forest    |  0.89    |  0.86  |
-| XGBoost          |  0.91    |  0.89  |
+| Logistic Reg.    |  x.xx    |  x.xx  |
+| Random Forest    |  x.xx    |  x.xx  |
+| XGBoost          |  x.xx    |  x.xx  |
 
 ## Live Demo
 👉 [Open Streamlit App](link-aqui)
